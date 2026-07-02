@@ -178,7 +178,7 @@ If you use **Kitty, Alacritty, WezTerm, foot, GNOME Terminal, Tilix, xterm, st, 
 
 Go to **Settings → Edit Current Profile → Tabs**.
 
-![Terminal_1](Terminal_1.png)
+![Terminal_1](images/Terminal_1.png)
 
 In the **Tab title format** field, set the value to:
 
@@ -187,7 +187,7 @@ In the **Tab title format** field, set the value to:
 ```
 
 
-![Terminal_2](Terminal_2.png)
+![Terminal_2](images/Terminal_2.png)
 
 Click **OK** or **Apply**.
 
