@@ -8,7 +8,8 @@ Works on any terminal that supports OSC escape sequences: Konsole, Kitty, Alacri
 
 ---
 
-![[ktt-1.gif]] "🔴 sleep", "🟣 obsidian", "🟢 Projects", "✔ ls" -->
+![ktt-1](images/ktt-1.gif)
+"🔴 sleep", "🟣 obsidian", "🟢 Projects", "✔ ls" -->
 
 
 [Click here for the Installation Guide](#Installation)
@@ -24,7 +25,7 @@ Works on any terminal that supports OSC escape sequences: Konsole, Kitty, Alacri
 | 🟣 **Session** | An interactive or long-lived process is running: an editor, REPL, TUI, or GUI app                                         |
 | ✔ **Done**     | The last task finished successfully. Shown briefly, then reverts to 🟢                                                    |
 | ❌ **Failed**   | The last task exited with a non-zero code. Shown briefly, then reverts to 🟢                                              |
-![[ktt-2.gif]]
+![ktt-2](images/ktt-2.gif)
 The ✔ / ❌ flash duration is configurable (1 second for success, 2 for failure by default), so you can glance at another tab and still catch the result when you come back.
 
 
