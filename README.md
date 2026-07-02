@@ -9,6 +9,7 @@ Works on any terminal that supports OSC escape sequences: Konsole, Kitty, Alacri
 ---
 
 ![ktt-1](images/ktt-1.gif)
+
 "🔴 sleep", "🟣 obsidian", "🟢 Projects", "✔ ls" -->
 
 
